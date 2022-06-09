@@ -33,7 +33,7 @@ This repository includes an **eval.py** script that will give an accuracy score 
 Hints
 ------
 - We have computed result with accuracies higher than 90% on the **Train** set. You can aim to get results with this score. 
-- The highest accuracy we have reache for the **Test** is 72.564%.
+- The highest accuracy we have reached for the **Test** is 83.372%.
 - Normalize all the images before parsing into your model, images can have different shapes.
 - Use the three color channels to parse info into your model.
 - The training dataset is well balanced, equally sized and the images are highly detailed. Therefore we advice to spend more time on the model rather than preprocessing it. 

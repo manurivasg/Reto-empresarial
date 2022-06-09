@@ -6,7 +6,7 @@ def load_test_paths(base_path):
     label_dict={'Arborio':0,'basmati':1,'Ipsala':2,'Jasmine':3,'Karacadag':4}
     filenames = os.walk(base_path)
     files=list(filenames)[0][2]
-    files=[file for file in files if file.endswith(".png")]
+    files=[file for file in files if file.endswith(".jpg")]
     labels=[label_dict[file.split(' ')[0]] for file in files]
     file_df=pd.DataFrame({"file":files,"label":labels})
     file_df["file"]=file_df.file.map(lambda x: os.path.join(base_path,x))
