@@ -40,6 +40,6 @@ Hints
 - We have seen that the denser the model, the better; however, balance it not to spend too much time on the evaluation. Remember **27 mins** is the max. 
 - Check that your code runs on the eval script; if it doesn't run, we will not be able to give you a grade. Include the libraries you need to run the code. 
 
-[Application form]([https://forms.office.com/pages/responsepage.aspx?id=fAS9-kj_KkmLu4-YufucyuvPP8FxoDxPtQnJHZ3zr3NURUdCNUU3T1o1RkRMUUg3RkxURk9LMjdFRi4u](https://forms.office.com/Pages/ShareFormPage.aspx?id=fAS9-kj_KkmLu4-YufucyuvPP8FxoDxPtQnJHZ3zr3NUMzdSOEs5UVBQMDBTSkJDNDdRMVNQTEpHNy4u&sharetoken=MQ2AdCM7zIO8yA5Hw98a)https://forms.office.com/Pages/ShareFormPage.aspx?id=fAS9-kj_KkmLu4-YufucyuvPP8FxoDxPtQnJHZ3zr3NUMzdSOEs5UVBQMDBTSkJDNDdRMVNQTEpHNy4u&sharetoken=MQ2AdCM7zIO8yA5Hw98a)
+[Application form](https://forms.office.com/pages/responsepage.aspx?id=fAS9-kj_KkmLu4-YufucyuvPP8FxoDxPtQnJHZ3zr3NURUdCNUU3T1o1RkRMUUg3RkxURk9LMjdFRi4u](https://forms.office.com/Pages/ShareFormPage.aspx?id=fAS9-kj_KkmLu4-YufucyuvPP8FxoDxPtQnJHZ3zr3NUMzdSOEs5UVBQMDBTSkJDNDdRMVNQTEpHNy4u&sharetoken=MQ2AdCM7zIO8yA5Hw98a)https://forms.office.com/Pages/ShareFormPage.aspx?id=fAS9-kj_KkmLu4-YufucyuvPP8FxoDxPtQnJHZ3zr3NUMzdSOEs5UVBQMDBTSkJDNDdRMVNQTEpHNy4u&sharetoken=MQ2AdCM7zIO8yA5Hw98a)
 -------
 Use the link to pre-register for the course; we will have more communications for those who sign up.
