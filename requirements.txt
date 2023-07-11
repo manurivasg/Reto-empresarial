@@ -1,0 +1,5 @@
+se emplearon las siguientes librerias: 
+
+tensorflow
+cv2
+numpy
